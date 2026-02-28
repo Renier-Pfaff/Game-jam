@@ -1,0 +1,11 @@
+Step 1: Create new project and name it
+Step 2:Right-click on 2D node and change to area 2D
+Step 3: Right-click area 2D and add child node 
+-(sprite 2D and collision shape2D)
+Sprite 2D:
+Drag texture bottom left to texture box
+Edit region
+offset- disable center
+Collision shape 2D:
+ Capsule shape 2D- CapsuleS
+Draging Shape objects
